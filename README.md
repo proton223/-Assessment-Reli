@@ -155,5 +155,5 @@ Responsive layout design
 Accessibility considerations
 This implementation demonstrates a deep understanding of user-centered design principles while showcasing technical proficiency in React Native development. The app feels polished, intuitive, and ready for production use! 🚀
 
-# CLICK ON THIS TO VIEW :- https://sage-dragon-dadb8b.netlify.app/transactions
+# CLICK ON THIS TO VIEW :- https://sage-dragon-dadb8b.netlify.app
 
